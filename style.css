@@ -1,0 +1,22 @@
+html {
+    background-color: teal;
+}
+#btns_container {
+    border: 2px solid blue;
+    display: flex;
+    margin-bottom: 10px;
+}
+#gifs_container {
+    border: 2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+#gifs {
+    width: 20rem;
+    height: 20rem;
+}
+.submitBtn {
+    width: 10rem;
+}
